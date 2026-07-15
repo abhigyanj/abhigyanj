@@ -36,7 +36,7 @@ Soroban began as my Swift Student Challenge project and grew into a complete lea
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/abhigyanj/automation-app">Automation Studio</a></h3>
-      <p>A visual Python desktop-automation builder for creating, testing, and running safe mouse-and-keyboard workflows.</p>
+      <p>First built in sixth grade without AI, then revisited years later and refined in a single Codex pass into a safer, cleaner visual automation builder.</p>
       <sub>Python · Tkinter</sub>
     </td>
     <td width="50%" valign="top">
