@@ -40,9 +40,9 @@ Soroban began as my Swift Student Challenge project and grew into a complete lea
       <sub>Python · Tkinter</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhigyanj/presentation">React Slide Studio</a></h3>
-      <p>An open-source React template for presentations that are interactive in the browser, printable, and friendly to AI coding tools.</p>
-      <sub>React · JavaScript</sub>
+      <h3><a href="https://github.com/abhigyanj/english-tutor">Tutor Website</a></h3>
+      <p>A full-stack English tutoring platform with tutor discovery, Stripe payments, time-zone-aware scheduling, waitlist matching, session tracking, and moderation.</p>
+      <sub>React · Flask · PostgreSQL</sub>
     </td>
   </tr>
 </table>
