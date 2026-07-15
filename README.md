@@ -1,9 +1,71 @@
-# Hey, I’m Abhigyan
+<p align="center">
+  <img src="./assets/profile-banner.png" width="100%" alt="Abstract Japanese abacus banner">
+</p>
 
-I’m a student and developer based in Tokyo.
+<h1 align="center">Abhigyan Jaiswal</h1>
 
-## My App
+<p align="center">
+  Student developer in Tokyo building thoughtful applications across Apple platforms, automation, and education.
+</p>
 
-**Soroban: Mental Math Abacus** began as my winning Swift Student Challenge 2026 project. It helps people learn the Japanese abacus and build mental-math speed through guided lessons, Flash Anzan, and daily challenges.
+<p align="center">
+  <a href="#featured-project">Featured Project</a> ·
+  <a href="#selected-work">Selected Work</a> ·
+  <a href="mailto:abhigyanjj@gmail.com">Contact</a>
+</p>
 
-[Download Soroban: Mental Math Abacus on the App Store](https://apps.apple.com/us/app/soroban-mental-math-abacus/id6762503522)
+---
+
+## Featured Project
+
+<p align="center">
+  <img src="./assets/soroban-app-icon.png" width="128" alt="Soroban app icon">
+</p>
+
+<h3 align="center">Soroban: Mental Math Abacus</h3>
+
+<p align="center"><strong>Winner of the Apple Swift Student Challenge 2026</strong></p>
+
+Soroban began as my Swift Student Challenge project and grew into a complete learning app for iPhone and iPad. It helps students learn the Japanese abacus and develop mental-math speed through guided lessons, Flash Anzan, daily challenges, practice drills, and progress tracking.
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/soroban-mental-math-abacus/id6762503522">
+    <img src="./assets/download-on-the-app-store.svg" height="50" alt="Download on the App Store">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/soroban-mental-math-abacus/id6762503522">
+    <img src="./assets/soroban-preview.webp" width="100%" alt="Soroban running on iPhone">
+  </a>
+</p>
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhigyanj/automation-app">Automation Studio</a></h3>
+      <p>A visual Python desktop-automation builder for creating, testing, and running safe mouse-and-keyboard workflows.</p>
+      <sub>Python · Tkinter</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhigyanj/presentation">React Slide Studio</a></h3>
+      <p>An open-source React template for presentations that are interactive in the browser, printable, and friendly to AI coding tools.</p>
+      <sub>React · JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+## Technologies
+
+<p align="center">
+  Swift · SwiftUI · Python · TypeScript · React · Git
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:abhigyanjj@gmail.com">Email</a> ·
+  <a href="https://github.com/abhigyanj">GitHub</a>
+</p>
