@@ -15,7 +15,7 @@
 ## Featured Project
 
 <p align="center">
-  <img src="./assets/soroban-app-icon.png" width="128" alt="Soroban app icon">
+  <img src="./assets/soroban-app-icon-rounded.png" width="128" alt="Soroban app icon">
 </p>
 
 <h3 align="center">Soroban: Mental Math Abacus</h3>
