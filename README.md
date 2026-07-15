@@ -57,5 +57,5 @@ Soroban began as my Swift Student Challenge project and grew into a complete lea
 
 <p align="center">
   <a href="mailto:abhigyanjj@gmail.com">Email</a> ·
-  <a href="https://github.com/abhigyanj">GitHub</a>
+  <a href="https://www.linkedin.com/in/abhigyanj/">LinkedIn</a>
 </p>
