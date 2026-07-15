@@ -30,12 +30,6 @@ Soroban began as my Swift Student Challenge project and grew into a complete lea
   </a>
 </p>
 
-<p align="center">
-  <a href="https://apps.apple.com/us/app/soroban-mental-math-abacus/id6762503522">
-    <img src="./assets/soroban-preview.webp" width="100%" alt="Soroban running on iPhone">
-  </a>
-</p>
-
 ## Selected Work
 
 <table>
