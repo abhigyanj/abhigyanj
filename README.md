@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Abstract Japanese abacus banner">
-</p>
-
 <h1 align="center">Abhigyan Jaiswal</h1>
 
 <p align="center">
